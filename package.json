@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "serialport": "^9.2.8"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "arduinojs",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3lnath/ArduinoJS.git"
+  },
+  "keywords": [
+    "arduino",
+    "nodejs"
+  ],
+  "author": "elnath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3lnath/ArduinoJS/issues"
+  },
+  "homepage": "https://github.com/3lnath/ArduinoJS#readme",
+  "description": ""
+}
